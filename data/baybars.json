@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "match": 1.0,
+      "name": "Sultan al-Zahir Baybars",
+      "artist": "Bahri Mamluk",
+      "id": "baybars",
+      "playcount": 661020
+    },
+  ],
+  "links": [
+    {
+      "source": "ayyubid",
+      "target": "qalawun"
+    },
+    {
+      "source": "baybars",
+      "target": "qalawun"
+    },  
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "match": 1.0,
+      "name": "al-Salih Negm al-Din Ayyub",
+      "artist": "Ayyubid Sultan",
+      "id": "ayyubid",
+      "playcount": 661020
+    },
+  ],
+  "links": [
+    {
+      "source": "ayyubid",
+      "target": "qalawun"
+    },
+    {
+      "source": "ayyubid",
+      "target": "baybars"
+    },
+  ]
+}
