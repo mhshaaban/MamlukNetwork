@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "name": "al-Salih Nejm al-Din Ayyub",
+      "artist": "Ayyubid Sultan",
+      "id": "ayyubid",
+      "playcount": 1481366
+    },
+    {
+      "id": "baybars",
+      "match": 0.8,
+      "name": "Sultan al-Zahir Baybars",
+      "artist": "Bahri Mamluk",
+      "playcount": 658991
+    },
+    {
+      "id": "qalawun",
+      "match": 0.8,
+      "name": "Sultan al-Mansur Qalawun",
+      "artist": "Paul Simon",
+      "playcount": 769843
+    },
+  ],
+  "links": [
+    {
+      "source": "ayyubid",
+      "target": "baybars"
+    },
+    {
+      "source": "ayyubid",
+      "target": "qalawun"
+    },
+    {
+      "source": "baybars",
+      "target": "qalawun"
+    },
+     {
+      "source": "qalawun",
+      "target": "baybars"
+     },
+  ]
+}

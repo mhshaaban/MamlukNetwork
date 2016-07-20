@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "match": 1.0,
+      "name": "Sultan al-Mansur Qalawun",
+      "artist": "Bahri Mamluk",
+      "id": "qalawun",
+      "playcount": 661020
+    },
+  ],
+  "links": [
+    {
+      "source": "qalawun",
+      "target": "ayyubid"
+    },
+    {
+      "source": "qalawun",
+      "target": "baybars"
+    },  
+  ]
+}
