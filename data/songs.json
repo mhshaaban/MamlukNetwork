@@ -1232,6 +1232,30 @@
     {
       "source": "the_boys_of_summer_don_henley",
       "target": "missing_you_john_waite"
+    },
+    {
+      "source": "ayyubid",
+      "target": "baybars"
+    },
+    {
+      "source": "ayyubid",
+      "target": "qalawun"
+    },
+    {
+      "source": "baybars",
+      "target": "ayyubid"
+    },
+    {
+      "source": "baybars",
+      "target": "qalawun"
+    },
+    {
+      "source": "qalawun",
+      "target": "ayyubid"
+    },
+      {
+      "source": "qalawun",
+      "target": "baybars"
     }
   ]
 }
