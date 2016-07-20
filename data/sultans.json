@@ -17,7 +17,7 @@
       "id": "qalawun",
       "match": 0.8,
       "name": "Sultan al-Mansur Qalawun",
-      "artist": "Paul Simon",
+      "artist": "Bahri Mamluk",
       "playcount": 769843
     },
   ],
@@ -32,11 +32,19 @@
     },
     {
       "source": "baybars",
-      "target": "qalawun"
+      "target": "ayyubid"
     },
+    {
+      "source": "baybars",
+      "target": "qalawun"
+    },  
      {
       "source": "qalawun",
-      "target": "baybars"
+      "target": "ayyubid"
      },
+    {
+      "source": "qalawun",
+      "target": "baybars"
+     }
   ]
 }
